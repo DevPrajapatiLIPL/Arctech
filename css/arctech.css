@@ -40,7 +40,7 @@
 .chargegp{
     position: relative;
     left: 0px;
-    top: 60px;
+    top: 30px;
 }
 
 .gpdiv1{
@@ -66,8 +66,17 @@
 .rec2{
     height: 50px;
     width: 50px;
+    filter: contrast(0) brightness(0);
+}
+
+.rec2li{
+    position: relative;
+    top: -20px;
 }
 
 .gpli1 ul{
     list-style-type: none;
+    position: relative;
+    right: 10px;
 }
+
